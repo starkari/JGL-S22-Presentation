@@ -1,0 +1,74 @@
+---
+title: "The joint graphical lasso for inverse covariance estimation across multiple classes"
+author: "Ariane Stark and Margaret Janiczek"
+output: 
+  beamer_presentation:
+    theme: "Dresden"
+    colortheme: "beaver"
+---
+
+
+# Section 1
+
+## Slide 1
+
+text
+
+
+# Section 2
+
+## Slide 1
+
+text
+
+
+# Section 3
+
+## Slide 1
+
+text
+
+# Section 4
+
+## Slide 1
+text
+
+
+# Section 5
+
+## Slide 1
+text
+
+
+# Section 6
+
+## Slide 1
+text
+
+
+# Section 7
+
+## Slide 1
+text
+
+# Section 8
+
+## Slide 1
+text
+
+# Section 9
+
+## Slide 1
+text
+
+# Metabolomics Data
+
+## Slide 1
+
+text
+
+
+
+
+
+
