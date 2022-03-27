@@ -30,9 +30,13 @@ text
 
 # Section 4
 
-## Slide 1
-text
+## Computational Time Improvements
 
+Empirical covariance matrices $S^{(1)} \cdots S^{(K)}$ can be permuted so that the output of the JGL algorithm is block diagonal. The JGL algorithm can be performed on the blocks separately producing the exact same result as the result on all $p$ features.
+
+If for a given choice $\lambda_1$ and $\lambda_2$ the estimated inverse covariance matrices $\hat{\Theta}^{(1)} \cdots \hat{\Theta}^{(K)}$ are block diagonal each with the same $R$ blocks. Let the number of features for the $r$th block be denoted $p_r$ where $\sum_{r=1}^{R}p_r=p$.
+
+Theorems ensure that this block structure is possible. It is important to note that the improvements in speed only exist if $\lambda_1$ and $\lambda_2$ are sufficiently large.
 
 # Section 5
 
@@ -48,8 +52,11 @@ text
 
 # Section 7
 
-## Slide 1
-text
+##
+
+![]("Images/Fig.2.png")
+
+
 
 # Section 8
 
