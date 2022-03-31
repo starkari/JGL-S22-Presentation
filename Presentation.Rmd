@@ -8,25 +8,13 @@ output:
 ---
 
 
-# Section 1
+# Section 1 to Section 3
 
-## Slide 1
+## 
 
-text
-
-
-# Section 2
-
-## Slide 1
-
-text
+Margaret's Overview
 
 
-# Section 3
-
-## Slide 1
-
-text
 
 # Section 4: Faster computations for the FGL and GGL
 
@@ -194,14 +182,12 @@ The small black and green network suggests an interesting phenomenon. It contain
 
 - JGL has potential applications beyond those discussed in this paper
 
-## Slide 1
-text
 
 # Metabolomics Data
 
-## Slide 1
+## 
 
-text
+Back to Margaret's Tutorial
 
 
 
